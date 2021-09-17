@@ -1,11 +1,18 @@
-### Hi there 👋
+### Hello! 👋 I am Thiago Eugênio.
+
+- Currently working as a Data Scientist/Analyst at Melhor Envio, a fast growing logistics intermediation company based in Brasil
+- I have interests in many programming languages, mainly Python/SQL <img align="center" alt="Thiago-Eugenio" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
+- Here you will find some of the projects I have done in the past and some things I am currently working in my spare time aswell.
+- Feel free to contact me at [my email](mailto:thiagoace1@hotmail.com) or through my [Linkedin Profile](https://www.linkedin.com/in/eugeniothiago/)
 
 <!--
 **eugeniothiago/eugeniothiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+### Me chamo Thiago Eugênio e atualmente trabalho com análise e ciência de dados, além de possuir interesses nás áreas de desenvolvimento de software, especialmente back-end. Eu meu repositório você encontrará alguns projetos, bem como formas de me contatar!
+
+- 🔭 I’m currently working as a Data Scientist/Analyst at Melhor Envio
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
