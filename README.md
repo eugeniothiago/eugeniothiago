@@ -1,6 +1,6 @@
 ### Hello! 👋 I am Thiago Eugênio.
 
-- Currently working as a Data Scientist/Analyst at Melhor Envio, a fast growing logistics intermediation company based in Brasil
+- Currently working as a Data Analyst at Melhor Envio, a fast growing logistics intermediation company based in Brasil
 - I have interests in many programming languages, mainly Python/SQL <img align="center" alt="Thiago-Eugenio" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
 - Here you will find some of the projects I have done in the past and some things I am currently working in my spare time aswell.
 - Feel free to contact me at [my email](mailto:thiagoace1@hotmail.com) or through my [Linkedin Profile](https://www.linkedin.com/in/eugeniothiago/)
